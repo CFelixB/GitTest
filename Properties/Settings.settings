@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FolioBot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I:\jon\Jon Data Project 20120622</Value>
+    </Setting>
+    <Setting Name="RScriptPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\R\R-3.0.1\bin\rscript.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
